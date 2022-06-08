@@ -1,7 +1,5 @@
 # Titanic Survival Prediction Analysis - Classification
 
-**Complete Video Tutorial:** https://youtu.be/2fExV5KHU9s
-
 # Dataset Information
 
 The data has been split into two groups:
